@@ -1,0 +1,1 @@
+print("ritu_naruka")
